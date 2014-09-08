@@ -14,6 +14,7 @@ package hojatrabajo7;
  */
 public class Huffman {
 	
+    
 	private  char ArregloCaracteres[]; /*Variable para convertir el String en un arreglo de caracteres*/
 	private  int tablaF[] = new int[0x7f]; /*Variable que contiene las frecuencias*/
         private  NodoH nodoM[]; 
